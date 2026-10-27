@@ -84,8 +84,8 @@ photo_gallery/
 ├── postcss.config.js           # PostCSS configuration for Tailwind CSS
 ├── tailwind.config.js          # Tailwind CSS content configuration
 ├── vite.config.js              # Vite configuration
-├── README.md                   # Project documentation
-└── SCREEN_RECORDING_SCRIPT.md  # 5-minute video walkthrough guide
+└── README.md                   # Project documentation
+
 ```
 
 ---
